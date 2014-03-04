@@ -31,21 +31,11 @@
       , "python"
       , "bash"
       , "java"
-      , "php"
-      , "perl"
       , "cpp"
       , "objectivec"
-      , "cs"
-      , "sql"
       , "xml"
-      , "css"
-      , "scala"
-      , "coffeescript"
-      , "lisp"
-      , "clojure"
       , "http"
-      , "haskell"
-      ]
+    ]
     }
   }
 }
